@@ -21,7 +21,9 @@
 You can always support me by clicking one of these links:
 
 [Join my discord server!](https://discord.gg/uZ7pjPCmeU)
+
 [Invite my discord bot!](https://nexusgg.tk)
+
 [Support our server's hosting by clicking this!](https://client.falixnodes.net/auth.php?ref=624145231645769729)
 
 ## Sponsors
