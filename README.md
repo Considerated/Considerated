@@ -1,16 +1,27 @@
-### Hi there 👋
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
+  
 
-<!--
-**progamer68/progamer68** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### <div align="center">I'm progamer68, a developer of discord bots (Node.js and Typescript), also likes playing games in spare time! 👨‍💻 I also specialize in making advanced and aesthetic minecraft servers. 🚀</div>  
+  
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on a bot for my server: [Discord](https://discord.gg/uZ7pjPCmeU) | [Website](https://cloudcraft.ml)
+  
+- 🌱 I’m currently learning Java and Python. 
+  
+- ❓  I love developing stuff. If you want to contact me you can join my [Discord](https://discord.gg/uZ7pjPCmeU) or add me on discord: progamer68#7309
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<br/>  
+
+# SUPPORT ME
+
+You can always support me by clicking one of these links:
+
+[Join my discord server!](https://discord.gg/uZ7pjPCmeU)
+[Invite my discord bot!](https://nexusgg.tk)
+[Support our server's hosting by clicking this!](https://client.falixnodes.net/auth.php?ref=624145231645769729)
+
+## Sponsors
