@@ -26,4 +26,3 @@ You can always support me by clicking one of these links:
 
 [Support our server's hosting by clicking this!](https://client.falixnodes.net/auth.php?ref=624145231645769729)
 
-## Sponsors
