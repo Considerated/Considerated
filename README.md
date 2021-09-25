@@ -3,14 +3,14 @@
 </div>  
   
 
-### <div align="center">I'm progamer68, a developer of discord bots (Node.js and Typescript), also likes playing games in spare time! 👨‍💻 I also specialize in making advanced and aesthetic minecraft servers. 🚀</div>  
+### <div align="center">I'm Chilled, a developer of discord bots (Node.js and Typescript), also likes playing games in spare time! 👨‍💻 I also specialize in making advanced minecraft servers. 🚀</div>  
   
 
-- 🔭 I’m currently working on a bot for my server: [Discord](https://discord.gg/uZ7pjPCmeU) | [Website](https://cloudcraft.ml)
+- 🔭 I’m currently working on a bot for my server: [Discord](https://discord.gg/Zn8D7cT8U8) | [Website](https://thecloudmc.tk)
   
 - 🌱 I’m currently learning Java and Python. 
   
-- ❓  I love developing stuff. If you want to contact me you can join my [Discord](https://discord.gg/uZ7pjPCmeU) or add me on discord: progamer68#7309
+- ❓  I love developing stuff. If you want to contact me you can join my [Discord](https://discord.gg/Zn8D7cT8U8) or add me on discord: Chillyy#7309
   
 
 
@@ -20,9 +20,9 @@
 
 You can always support me by clicking one of these links:
 
-[Join my discord server!](https://discord.gg/uZ7pjPCmeU)
+[Join my discord server!](https://discord.gg/Zn8D7cT8U8)
 
-[Invite my discord bot!](https://nexusgg.tk)
+[Invite my discord bot!](https://nexusgg.tk) (Bot ending its service soon)
 
 [Support our server's hosting by clicking this!](https://client.falixnodes.net/auth.php?ref=624145231645769729)
 
