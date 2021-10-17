@@ -3,10 +3,12 @@
 </div>  
   
 
-### <div align="center">I'm Chilled, a developer of discord bots (Node.js and Typescript), also likes playing games in spare time! 👨‍💻 I also specialize in making advanced minecraft servers. 🚀</div>  
+### <div align="center">I'm Chillyy, a developer of discord bots (Node.js and Typescript), also likes playing games in spare time! 👨‍💻 I also specialize in making advanced minecraft servers. 🚀</div>  
   
 
 - 🔭 I’m currently working on a bot for my server: [Discord](https://discord.gg/Zn8D7cT8U8) | [Website](https://thecloudmc.tk)
+
+- ⚡ You can visit my website: [Website](https://chillyy.repl.co)
   
 - 🌱 I’m currently learning Java and Python. 
   
