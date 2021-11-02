@@ -9,7 +9,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp; I'm a discord.js developer.\
-💻 &nbsp; I'm currently developing a project called [Blur](https://blurweb.chillyy.repl.co), collabing with [Ghostyy](https://github.com/GhostyCatt)\
+💻 &nbsp; I'm currently developing a project called [Midnight](https://midnight.tk)\
 ⭐ &nbsp; I can also develop custom websites, minecraft servers and discord bots using [discord.js](https://discord.js.org)\
 💬 &nbsp; You can read more about me in my website: **https://chillyy.repl.co**
 
