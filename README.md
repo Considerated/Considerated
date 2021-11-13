@@ -35,3 +35,5 @@
 ### 📫 &nbsp; How to reach me:
 
 ⚡ &nbsp; You can find all my socials in my **[website](https://chillyy.repl.co)**
+
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/624145231645769729)](https://discord.com/users/624145231645769729)
