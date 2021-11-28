@@ -9,9 +9,9 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp; I'm a discord.js developer.\
-💻 &nbsp; I'm currently developing a project called [Midnight](https://midnight.tk)\
+💻 &nbsp; I'm currently developing a project called [Midnight](https://midnightbot.tk)\
 ⭐ &nbsp; I can also develop custom websites, minecraft servers and discord bots using [discord.js](https://discord.js.org)\
-💬 &nbsp; You can read more about me in my website: **https://chillyy.repl.co**
+💬 &nbsp; You can read more about me in my website: **https://chillyy.tk**
 
 
 ### 🛠 &nbsp;Skills
@@ -34,6 +34,4 @@
 <code><img height="30" src="https://avatars.githubusercontent.com/u/17475736?s=200&v=4" /> </code>
 ### 📫 &nbsp; How to reach me:
 
-⚡ &nbsp; You can find all my socials in my **[website](https://chillyy.repl.co)**
-
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/624145231645769729)](https://discord.com/users/624145231645769729)
+⚡ &nbsp; You can find all my socials in my **[website](https://chillyy.tk)**
